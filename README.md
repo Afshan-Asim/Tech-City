@@ -1,2 +1,2 @@
 # Tech-City
-This repository that contains WordPress website for tech city.
+This repository contains WordPress website for tech city.
